@@ -17,7 +17,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 60px;
-  padding: 0.55em 0;
+  padding: 0.20em 0;
   margin: 0 0 0.65em;
   border-bottom: solid 1px rgba(0, 0, 0, 0.15);
 }
@@ -38,7 +38,7 @@ h2 {
 
 h2 /*:not(:first-of-type )*/ {
   border-top: solid 1px rgba(0, 0, 0, 0.15);
-  padding-top: 34px;
+  padding-top: 5px;
 }
 
 h3 {
@@ -80,7 +80,7 @@ color {
 
 .imgthree {
   margin: auto;
-  max-width:40%;
+  max-width:60%;
   border-radius: 5px;
   border: solid 1px rgba(0, 0, 0, 0.1);
 }
