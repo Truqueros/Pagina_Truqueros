@@ -40,13 +40,13 @@ const records = [
   {
     torneo: 'Campeones XII Torneo 2020-2021',
     copa: 'Copa Aluminios Pipo',
-    winnerOne: 'Falta Nombre',
-    winnerTwo: 'Falta Nombre',
-    team: 'Falta Nombre',
-    winOneRanking: 0,
-    winTwoRanking: 0,
+    winnerOne: 'El Portu',
+    winnerTwo: 'Andres Sanchez',
+    team: 'El Portu',
+    winOneRanking: 4,
+    winTwoRanking: 1,
     date: '23 Octubre 2021',
-    photo: 'IMAGE/imageBlank.jpg'
+    photo: 'IMAGE/image05.jpg'
   },
   {
     torneo: 'Sub Campeones XII Torneo 2020-2021',
@@ -155,7 +155,7 @@ const records = [
     team: 'Equipo Que Arepas y Algo Mas...',
     winOneRanking: 2,
     winTwoRanking: 1,
-    date: 'Sin Informacion',
+    date: '26 de Septiembre',
     photo: 'IMAGE/image03.jpg'
   },
   {
@@ -166,8 +166,8 @@ const records = [
     team: 'Equipo El Portu',
     winOneRanking: 1,
     winTwoRanking: 1,
-    date: 'Sin Informacion',
-    photo: 'IMAGE/imageBlank.jpg'
+    date: '26 Septiembre 2021',
+    photo: 'IMAGE/image04.jpg'
   },
   /*{
     project: 'Chiquitin Carreando',
